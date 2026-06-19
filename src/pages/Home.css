@@ -1,0 +1,12 @@
+.container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: var(--primary-color);
+    margin-bottom: 25px;
+    font-size: 40px;
+}
